@@ -17,16 +17,13 @@ This lab demonstrates how to create a Python script that automates the backup of
 ```bash
 python3 backup_script.py
 
-## 📸 Screenshots
-
 ### 1️⃣ Backup Console Output
 Shows successful backup message from script.
 
-![Backup Console Output](screenshots/01_backup_console_output.png)
-
+![Backup Console Output]
 ---
 
 ### 2️⃣ Backup Folder Created  
 Displays the ZIP file in the backups folder.
 
-![Backup Folder Created](screenshots/02_backup_folder_created.png)
+![Backup Folder Created]
