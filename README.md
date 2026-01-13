@@ -6,6 +6,7 @@ File/directory selection
 Creating time-stamped backup files
 Zipping files using shutil and os
 Logging basic backup activity
+
 🚀 How to Run
 Place the folders/files you want to back up inside the to_backup/ folder
 Run the script:
