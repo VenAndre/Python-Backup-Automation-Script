@@ -11,17 +11,3 @@ Logging basic backup activity
 Place the folders/files you want to back up inside the to_backup/ folder
 Run the script:
 python3 scripts/backup_script.py
-
-## 📸 Screenshots
-
-### 1️⃣ Backup Console Output  
-Shows successful backup message from script.
-
-![Backup Console Output](screenshots/01_backup_console_output.png)
-
----
-
-### 2️⃣ Backup Folder Created  
-Displays the ZIP file in the backups folder.
-
-![Backup Folder Created](screenshots/02_backup_folder_created.png)
