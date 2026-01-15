@@ -14,16 +14,6 @@ This lab demonstrates how to create a Python script that automates the backup of
 1. Place the folders/files you want to back up inside the `to_backup/` folder
 2. Run the script:
 
-```bash
+````bash
 python3 backup_script.py
-
-### 1️⃣ Backup Console Output
-Shows successful backup message from script.
-
-![Backup Console Output]
----
-
-### 2️⃣ Backup Folder Created  
-Displays the ZIP file in the backups folder.
-
-![Backup Folder Created]
+````
