@@ -1,5 +1,8 @@
 # 🗂️ Python Backup Automation Script
+
 This lab demonstrates how to create a Python script that automates the backup of files or directories. It compresses selected folders into a **.zip** archive and stores it in a designated backup directory.
+
+---
 
 ## 📦 What This Project Covers
 - File/directory selection
